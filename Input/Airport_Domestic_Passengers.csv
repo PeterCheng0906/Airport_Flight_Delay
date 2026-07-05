@@ -1,0 +1,437 @@
+Airport,Code, Originating_Domestic_Passengers  
+"Los Angeles, CA: Los Angeles International",LAX,"  1,324,394 "
+"Denver, CO: Denver International",DEN,"  1,138,192 "
+"Atlanta, GA: Hartsfield-Jackson Atlanta International",ATL,"  1,088,364 "
+"Chicago, IL: Chicago O'Hare International",ORD,"  1,085,583 "
+"Orlando, FL: Orlando International",MCO,"  925,518 "
+"Boston, MA: Logan International",BOS,"  919,227 "
+"Newark, NJ: Newark Liberty International",EWR,"  919,009 "
+"Seattle, WA: Seattle/Tacoma International",SEA,"  908,387 "
+"Phoenix, AZ: Phoenix Sky Harbor International",PHX,"  868,167 "
+"Dallas/Fort Worth, TX: Dallas/Fort Worth International",DFW,"  859,264 "
+"Las Vegas, NV: Harry Reid International",LAS,"  829,770 "
+"San Francisco, CA: San Francisco International",SFO,"  820,323 "
+"New York, NY: John F. Kennedy International",JFK,"  763,958 "
+"New York, NY: LaGuardia",LGA,"  747,533 "
+"Minneapolis, MN: Minneapolis-St Paul International",MSP,"  655,028 "
+"Philadelphia, PA: Philadelphia International",PHL,"  612,722 "
+"Houston, TX: George Bush Intercontinental/Houston",IAH,"  606,033 "
+"San Diego, CA: San Diego International",SAN,"  605,311 "
+"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",FLL,"  605,198 "
+"Detroit, MI: Detroit Metro Wayne County",DTW,"  589,164 "
+"Tampa, FL: Tampa International",TPA,"  547,506 "
+"Miami, FL: Miami International",MIA,"  537,910 "
+"Washington, DC: Ronald Reagan Washington National",DCA,"  531,181 "
+"Austin, TX: Robert Mueller Municipal",AUS,"  520,863 "
+"Austin, TX: Austin - Bergstrom International",AUS,"  520,863 "
+"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",BWI,"  510,849 "
+"Salt Lake City, UT: Salt Lake City International",SLC,"  464,454 "
+"Nashville, TN: Nashville International",BNA,"  456,900 "
+"Portland, OR: Portland International",PDX,"  447,280 "
+"Charlotte, NC: Charlotte Douglas International",CLT,"  409,225 "
+"Sacramento, CA: Sacramento International",SMF,"  390,303 "
+"Chicago, IL: Chicago Midway International",MDW,"  389,902 "
+"Raleigh/Durham, NC: Raleigh-Durham International",RDU,"  359,980 "
+"Honolulu, HI: Daniel K Inouye International",HNL,"  345,472 "
+"St. Louis, MO: St Louis Lambert International",STL,"  341,165 "
+"Dallas, TX: Dallas Love Field",DAL,"  327,518 "
+"San Jose, CA: Norman Y. Mineta San Jose International",SJC,"  325,744 "
+"Oakland, CA: Metro Oakland International",OAK,"  323,701 "
+"Santa Ana, CA: John Wayne Airport-Orange County",SNA,"  306,901 "
+"Kansas City, MO: Kansas City International",MCI,"  305,067 "
+"New Orleans, LA: Louis Armstrong New Orleans International",MSY,"  290,985 "
+"Cleveland, OH: Cleveland-Hopkins International",CLE,"  285,126 "
+"Indianapolis, IN: Indianapolis International",IND,"  278,800 "
+"Washington, DC: Washington Dulles International",IAD,"  275,957 "
+"San Antonio, TX: San Antonio International",SAT,"  270,392 "
+"Pittsburgh, PA: Pittsburgh International",PIT,"  258,489 "
+"San Juan, PR: Luis Munoz Marin International",SJU,"  255,939 "
+"Cincinnati, OH: Cincinnati/Northern Kentucky International",CVG,"  254,412 "
+"Houston, TX: William P Hobby",HOU,"  252,999 "
+"Columbus, OH: John Glenn Columbus International",CMH,"  239,533 "
+"Fort Myers, FL: Southwest Florida International",RSW,"  237,339 "
+"Hartford, CT: Bradley International",BDL,"  204,954 "
+"Ontario, CA: Ontario International",ONT,"  189,781 "
+"Jacksonville, FL: Jacksonville International",JAX,"  187,142 "
+"Burbank, CA: Bob Hope",BUR,"  186,773 "
+"Milwaukee, WI: General Mitchell International",MKE,"  184,263 "
+"West Palm Beach/Palm Beach, FL: Palm Beach International",PBI,"  182,309 "
+"Omaha, NE: Eppley Airfield",OMA,"  143,820 "
+"Boise, ID: Boise Air Terminal",BOI,"  138,414 "
+"Charleston, SC: Charleston AFB/International",CHS,"  137,380 "
+"Albuquerque, NM: Albuquerque International Sunport",ABQ,"  137,221 "
+"Buffalo, NY: Buffalo Niagara International",BUF,"  136,996 "
+"Memphis, TN: Memphis International",MEM,"  136,518 "
+"Richmond, VA: Richmond International",RIC,"  134,556 "
+"Kahului, HI: Kahului Airport",OGG,"  129,400 "
+"Norfolk, VA: Norfolk International",ORF,"  128,071 "
+"El Paso, TX: El Paso International",ELP,"  125,552 "
+"Anchorage, AK: Ted Stevens Anchorage International",ANC,"  124,301 "
+"Oklahoma City, OK: Will Rogers World",OKC,"  123,232 "
+"Louisville, KY: Louisville Muhammad Ali International",SDF,"  119,845 "
+"Spokane, WA: Spokane International",GEG,"  119,839 "
+"Grand Rapids, MI: Gerald R. Ford International",GRR,"  118,884 "
+"Reno, NV: Reno/Tahoe International",RNO,"  117,293 "
+"Providence, RI: Rhode Island Tf Green International",PVD,"  110,462 "
+"Tucson, AZ: Tucson International",TUS,"  100,275 "
+"Long Beach, CA: Long Beach Airport",LGB,"  100,135 "
+"Des Moines, IA: Des Moines International",DSM,"  92,967 "
+"Sarasota/Bradenton, FL: Sarasota/Bradenton International",SRQ,"  92,942 "
+"Tulsa, OK: Tulsa International",TUL,"  92,688 "
+"Albany, NY: Albany International",ALB,"  89,318 "
+"Syracuse, NY: Syracuse Hancock International",SYR,"  85,638 "
+"Birmingham, AL: Birmingham-Shuttlesworth International",BHM,"  83,986 "
+"Savannah, GA: Savannah/Hilton Head International",SAV,"  83,336 "
+"Rochester, NY: Frederick Douglass Grtr Rochester International",ROC,"  79,221 "
+"Kona, HI: Ellison Onizuka Kona International at Keahole",KOA,"  76,572 "
+"Myrtle Beach, SC: Myrtle Beach International",MYR,"  72,585 "
+"Knoxville, TN: McGhee Tyson",TYS,"  71,373 "
+"White Plains, NY: Westchester County",HPN,"  67,206 "
+"Pensacola, FL: Pensacola International",PNS,"  66,827 "
+"Lihue, HI: Lihue Airport",LIH,"  66,609 "
+"Colorado Springs, CO: City of Colorado Springs Municipal",COS,"  65,947 "
+"Greer, SC: Greenville-Spartanburg International",GSP,"  65,465 "
+"Fresno, CA: Fresno Yosemite International",FAT,"  62,639 "
+"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",LIT,"  62,186 "
+"Palm Springs, CA: Palm Springs International",PSP,"  60,627 "
+"Portland, ME: Portland International Jetport",PWM,"  60,037 "
+"Madison, WI: Dane County Regional-Truax Field",MSN,"  59,253 "
+"Bozeman, MT: Bozeman Yellowstone International",BZN,"  56,730 "
+"Sanford, FL: Orlando Sanford International",SFB,"  54,985 "
+"Asheville, NC: Asheville Regional",AVL,"  54,047 "
+"St. Petersburg, FL: St Pete Clearwater International",PIE,"  53,464 "
+"Eugene, OR: Mahlon Sweet Field",EUG,"  51,096 "
+"Fayetteville, AR: Northwest Arkansas National",XNA,"  50,123 "
+"Wichita, KS: Wichita Dwight D Eisenhower National",ICT,"  48,702 "
+"Islip, NY: Long Island MacArthur",ISP,"  48,425 "
+"Greensboro/High Point, NC: Piedmont Triad International",GSO,"  48,146 "
+"Manchester, NH: Manchester Boston Regional",MHT,"  45,435 "
+"Phoenix, AZ: Phoenix - Mesa Gateway",AZA,"  45,373 "
+"Cedar Rapids/Iowa City, IA: The Eastern Iowa",CID,"  41,800 "
+"Harrisburg, PA: Harrisburg International",MDT,"  41,734 "
+"Midland/Odessa, TX: Midland International Air and Space Port",MAF,"  41,017 "
+"Sioux Falls, SD: Joe Foss Field",FSD,"  40,484 "
+"Punta Gorda, FL: Punta Gorda Airport",PGD,"  39,514 "
+"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",VPS,"  38,873 "
+"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",JAN,"  38,716 "
+"Burlington, VT: Burlington International",BTV,"  37,383 "
+"Santa Barbara, CA: Santa Barbara Municipal",SBA,"  36,934 "
+"Lexington, KY: Blue Grass",LEX,"  36,611 "
+"Hilo, HI: Hilo International",ITO,"  35,787 "
+"Huntsville, AL: Huntsville International-Carl T Jones Field",HSV,"  34,893 "
+"Dayton, OH: James M Cox/Dayton International",DAY,"  34,471 "
+"Medford, OR: Rogue Valley International - Medford",MFR,"  33,162 "
+"Panama City, FL: Northwest Florida Beaches International",ECP,"  32,859 "
+"Wilmington, NC: Wilmington International",ILM,"  32,469 "
+"Bend/Redmond, OR: Roberts Field",RDM,"  32,302 "
+"Lubbock, TX: Lubbock Preston Smith International",LBB,"  32,223 "
+"Springfield, MO: Springfield-Branson National",SGF,"  31,850 "
+"Atlantic City, NJ: Atlantic City International",ACY,"  31,811 "
+"Mission/McAllen/Edinburg, TX: McAllen Miller International",MFE,"  31,799 "
+"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",ABE,"  31,414 "
+"Fargo, ND: Hector International",FAR,"  30,695 "
+"Columbia, SC: Columbia Metropolitan",CAE,"  30,308 "
+"Appleton, WI: Appleton International",ATW,"  30,300 "
+"New Haven, CT: Tweed New Haven",HVN,"  29,911 "
+"Fairbanks, AK: Fairbanks International",FAI,"  29,872 "
+"Trenton, NJ: Trenton Mercer",TTN,"  29,090 "
+"Harlingen/San Benito, TX: Valley International",HRL,"  27,787 "
+"Chattanooga, TN: Lovell Field",CHA,"  27,673 "
+"Pasco/Kennewick/Richland, WA: Tri Cities",PSC,"  26,623 "
+"Fort Wayne, IN: Fort Wayne International",FWA,"  25,093 "
+"South Bend, IN: South Bend International",SBN,"  24,742 "
+"Missoula, MT: Missoula Montana",MSO,"  24,527 "
+"Bellingham, WA: Bellingham International",BLI,"  24,288 "
+"Amarillo, TX: Rick Husband Amarillo International",AMA,"  23,877 "
+"Tallahassee, FL: Tallahassee International",TLH,"  23,763 "
+"Flint, MI: Bishop International",FNT,"  23,509 "
+"Billings, MT: Billings Logan International",BIL,"  22,867 "
+"Peoria, IL: General Downing - Peoria International",PIA,"  21,184 "
+"Kalispell, MT: Glacier Park International",FCA,"  20,575 "
+"Everett, WA: Snohomish County",PAE,"  20,336 "
+"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",BTR,"  20,059 "
+"Bangor, ME: Bangor International",BGR,"  19,773 "
+"Akron, OH: Akron-Canton Regional",CAK,"  19,637 "
+"Corpus Christi, TX: Corpus Christi International",CRP,"  19,386 "
+"Green Bay, WI: Green Bay Austin Straubel International",GRB,"  19,193 "
+"Santa Rosa, CA: Charles M. Schulz - Sonoma County",STS,"  18,980 "
+"Key West, FL: Key West International",EYW,"  18,879 "
+"Idaho Falls, ID: Idaho Falls Regional",IDA,"  18,877 "
+"Moline, IL: Quad Cities International",MLI,"  18,503 "
+"Roanoke, VA: Roanoke Blacksburg Regional",ROA,"  18,411 "
+"Gainesville, FL: Gainesville Regional",GNV,"  17,281 "
+"Augusta, GA: Augusta Regional at Bush Field",AGS,"  17,187 "
+"Rapid City, SD: Rapid City Regional",RAP,"  17,176 "
+"San Luis Obispo, CA: San Luis County Regional",SBP,"  16,825 "
+"Charlottesville, VA: Charlottesville Albemarle",CHO,"  16,720 "
+"Shreveport, LA: Shreveport Regional",SHV,"  16,648 "
+"Traverse City, MI: Cherry Capital",TVC,"  16,513 "
+"Juneau, AK: Juneau International",JNU,"  16,351 "
+"Bismarck/Mandan, ND: Bismarck Municipal",BIS,"  16,336 "
+"Daytona Beach, FL: Daytona Beach International",DAB,"  15,388 "
+"Provo, UT: Provo Municipal",PVU,"  14,684 "
+"Mobile, AL: Mobile Regional",MOB,"  14,475 "
+"Jackson, WY: Jackson Hole",JAC,"  14,088 "
+"Belleville, IL: Scott AFB MidAmerica St Louis",BLV,"  14,069 "
+"Lafayette, LA: Lafayette Regional Paul Fournet Field",LFT,"  13,897 "
+"Gulfport/Biloxi, MS: Gulfport-Biloxi International",GPT,"  13,803 "
+"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",AVP,"  13,236 "
+"Grand Junction, CO: Grand Junction Regional",GJT,"  12,926 "
+"Columbus, OH: Rickenbacker International",LCK,"  12,800 "
+"Melbourne, FL: Melbourne Orlando International",MLB,"  12,633 "
+"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",BMI,"  12,387 "
+"Monterey, CA: Monterey Regional",MRY,"  12,168 "
+"Bristol/Johnson City/Kingsport, TN: Tri Cities",TRI,"  11,827 "
+"Aspen, CO: Aspen Pitkin County Sardy Field",ASE,"  11,174 "
+"Fayetteville, NC: Fayetteville Regional/Grannis Field",FAY,"  10,763 "
+"Charleston/Dunbar, WV: West Virginia International Yeager",CRW,"  10,526 "
+"Montrose/Delta, CO: Montrose Regional",MTJ,"  10,449 "
+"Latrobe, PA: Arnold Palmer Regional",LBE,"  10,387 "
+"Newburgh/Poughkeepsie, NY: New York Stewart International",SWF,"  10,143 "
+"Evansville, IN: Evansville Regional",EVV,"  10,134 "
+"Durango, CO: Durango La Plata County",DRO,"  10,113 "
+"Rockford, IL: Chicago/Rockford International",RFD,"  9,741 "
+"Bakersfield, CA: Meadows Field",BFL,"  9,463 "
+"Minot, ND: Minot International",MOT,"  9,446 "
+"Jacksonville/Camp Lejeune, NC: Albert J Ellis",OAJ,"  9,254 "
+"Great Falls, MT: Great Falls International",GTF,"  9,086 "
+"Concord, NC: Concord Padgett Regional",USA,"  8,996 "
+"Montgomery, AL: Montgomery Regional",MGM,"  8,483 "
+"Duluth, MN: Duluth International",DLH,"  8,084 "
+"Brownsville, TX: Brownsville South Padre Island International",BRO,"  7,856 "
+"Laredo, TX: Laredo International",LRD,"  7,732 "
+"Arcata/Eureka, CA: California Redwood Coast Humboldt County",ACV,"  7,686 "
+"St. George, UT: St George Regional",SGU,"  7,263 "
+"Hayden, CO: Yampa Valley",HDN,"  7,225 "
+"State College, PA: University Park",SCE,"  7,223 "
+"Eagle, CO: Eagle County Regional",EGE,"  7,194 "
+"Ashland, WV: Tri-State/Milton J. Ferguson Field",HTS,"  7,058 "
+"Redding, CA: Redding Municipal",RDD,"  6,938 "
+"Ketchikan, AK: Ketchikan International",KTN,"  6,606 "
+"Killeen, TX: Robert Gray AAF",GRK,"  6,561 "
+"Worcester, MA: Worcester Regional",ORH,"  6,378 "
+"Stockton, CA: Stockton Metro",SCK,"  6,302 "
+"Grand Forks, ND: Grand Forks International",GFK,"  6,148 "
+"Toledo, OH: Eugene F Kranz Toledo Express",TOL,"  6,059 "
+"Alexandria, LA: Alexandria International",AEX,"  6,034 "
+"Plattsburgh, NY: Plattsburgh International",PBG,"  5,954 "
+"Bethel, AK: Bethel Airport",BET,"  5,918 "
+"Elmira/Corning, NY: Elmira/Corning Regional",ELM,"  5,868 "
+"Santa Fe, NM: Santa Fe Municipal",SAF,"  5,839 "
+"Monroe, LA: Monroe Regional",MLU,"  5,503 "
+"Yuma, AZ: Yuma MCAS/Yuma International",YUM,"  5,501 "
+"Nantucket, MA: Nantucket Memorial",ACK,"  5,447 "
+"Lincoln, NE: Lincoln Airport",LNK,"  5,328 "
+"Rochester, MN: Rochester International",RST,"  5,285 "
+"Springfield, IL: Abraham Lincoln Capital",SPI,"  5,188 "
+"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",LYH,"  5,175 "
+"Helena, MT: Helena Regional",HLN,"  5,166 "
+"Newport News/Williamsburg, VA: Newport News/Williamsburg International",PHF,"  5,086 "
+"Columbia, MO: Columbia Regional",COU,"  5,075 "
+"Lansing, MI: Capital Region International",LAN,"  5,062 "
+"Mosinee, WI: Central Wisconsin",CWA,"  4,981 "
+"Pullman, WA: Pullman Moscow Regional",PUW,"  4,914 "
+"Manhattan/Ft. Riley, KS: Manhattan Regional",MHK,"  4,883 "
+"Kalamazoo, MI: Kalamazoo/Battle Creek International",AZO,"  4,849 "
+"Hilton Head, SC: Hilton Head Airport",HHH,"  4,785 "
+"Niagara Falls, NY: Niagara Falls International",IAG,"  4,752 "
+"Saginaw/Bay City/Midland, MI: MBS International",MBS,"  4,693 "
+"Grand Island, NE: Central Nebraska Regional",GRI,"  4,666 "
+"Flagstaff, AZ: Flagstaff Pulliam",FLG,"  4,631 "
+"Abilene, TX: Abilene Regional",ABI,"  4,624 "
+"Williston, ND: Williston Basin International",XWA,"  4,538 "
+"Sitka, AK: Sitka Rocky Gutierrez",SIT,"  4,466 "
+"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",SUN,"  4,464 "
+"Columbus, GA: Columbus Airport",CSG,"  4,440 "
+"Casper, WY: Casper/Natrona County International",CPR,"  4,380 "
+"Portsmouth, NH: Portsmouth International at Pease",PSM,"  4,366 "
+"Erie, PA: Erie International/Tom Ridge Field",ERI,"  4,301 "
+"Kodiak, AK: Kodiak Airport",ADQ,"  4,298 "
+"Champaign/Urbana, IL: University of Illinois/Willard",CMI,"  4,179 "
+"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",EWN,"  4,093 "
+"La Crosse, WI: La Crosse Regional",LSE,"  4,091 "
+"Lake Charles, LA: Lake Charles Regional",LCH,"  3,987 "
+"Roswell, NM: Roswell Air Center",ROW,"  3,684 "
+"Ithaca/Cortland, NY: Ithaca Tompkins International",ITH,"  3,654 "
+"Fort Smith, AR: Fort Smith Regional",FSM,"  3,630 "
+"San Angelo, TX: San Angelo Regional/Mathis Field",SJT,"  3,592 "
+"Waco, TX: Waco Regional",ACT,"  3,383 "
+"Salisbury, MD: Salisbury-Ocean City/Wicomico Regional",SBY,"  3,266 "
+"Martha's Vineyard, MA: Martha's Vineyard Airport",MVY,"  3,181 "
+"Clarksburg/Fairmont, WV: North Central West Virginia",CKB,"  3,168 "
+"College Station/Bryan, TX: Easterwood Field",CLL,"  3,001 "
+"Tyler, TX: Tyler Pounds Regional",TYR,"  2,934 "
+"Lewiston, ID: Lewiston Nez Perce County",LWS,"  2,726 "
+"Yakima, WA: Yakima Air Terminal/McAllister Field",YKM,"  2,684 "
+"Nome, AK: Nome Airport",OME,"  2,641 "
+"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",HGR,"  2,608 "
+"Marquette, MI: Sawyer International",MQT,"  2,556 "
+"Wenatchee, WA: Pangborn Memorial",EAT,"  2,530 "
+"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",LAW,"  2,523 "
+"Valdosta, GA: Valdosta Regional",VLD,"  2,505 "
+"Texarkana, AR: Texarkana Regional-Webb Field",TXK,"  2,498 "
+"Kotzebue, AK: Ralph Wien Memorial",OTZ,"  2,457 "
+"Columbus, MS: Golden Triangle Regional",GTR,"  2,377 "
+"Walla Walla, WA: Walla Walla Regional",ALW,"  2,376 "
+"Barrow, AK: Wiley Post/Will Rogers Memorial",BRW,"  2,190 "
+"Dothan, AL: Dothan Regional",DHN,"  2,166 "
+"Albany, GA: Southwest Georgia Regional",ABY,"  2,131 "
+"Florence, SC: Florence Regional",FLO,"  1,998 "
+"Greenville, NC: Pitt Greenville",PGV,"  1,916 "
+"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",SPS,"  1,879 "
+"Garden City, KS: Garden City Regional",GCK,"  1,854 "
+"Stillwater, OK: Stillwater Regional",SWO,"  1,846 "
+"Del Rio, TX: Del Rio International",DRT,"  1,815 "
+"Cody, WY: Yellowstone Regional",COD,"  1,807 "
+"Bemidji, MN: Bemidji Regional",BJI,"  1,748 "
+"Beaumont/Port Arthur, TX: Jack Brooks Regional",BPT,"  1,744 "
+"Longview, TX: East Texas Regional",GGG,"  1,743 "
+"Gunnison, CO: Gunnison-Crested Butte Regional",GUC,"  1,739 "
+"Dillingham, AK: Dillingham Airport",DLG,"  1,673 "
+"Aberdeen, SD: Aberdeen Regional",ABR,"  1,658 "
+"St. Cloud, MN: St. Cloud Regional",STC,"  1,649 "
+"Brunswick, GA: Brunswick Golden Isles",BQK,"  1,644 "
+"Sault Ste. Marie, MI: Chippewa County International",CIU,"  1,550 "
+"Pellston, MI: Pellston Regional Airport of Emmet County",PLN,"  1,521 "
+"Watertown, NY: Watertown International",ART,"  1,494 "
+"Brainerd, MN: Brainerd Lakes Regional",BRD,"  1,484 "
+"Gillette, WY: Northeast Wyoming Regional",GCC,"  1,448 "
+"Rhinelander, WI: Rhinelander/Oneida County",RHI,"  1,411 "
+"Escanaba, MI: Delta County",ESC,"  1,384 "
+"Sheridan, WY: Sheridan County",SHR,"  1,361 "
+"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",DIK,"  1,353 "
+"Deadhorse, AK: Deadhorse Airport",SCC,"  1,324 "
+"Petersburg, AK: Petersburg James A Johnson",PSG,"  1,312 "
+"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",SMX,"  1,256 "
+"Twin Falls, ID: Joslin Field - Magic Valley Regional",TWF,"  1,247 "
+"Iron Mountain/Kingsfd, MI: Ford",IMT,"  1,237 "
+"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",CYS,"  1,224 "
+"Kearney, NE: Kearney Regional",EAR,"  1,193 "
+"King Salmon, AK: King Salmon Airport",AKN,"  1,172 "
+"Hancock/Houghton, MI: Houghton County Memorial",CMX,"  1,145 "
+"Butte, MT: Bert Mooney",BTM,"  1,123 "
+"Owensboro, KY: Owensboro Daviess County Regional",OWB,"  1,094 "
+"Hobbs, NM: Lea County Regional",HOB,"  1,061 "
+"Cordova, AK: Merle K Mudhole Smith",CDV,"  1,057 "
+"Hibbing, MN: Range Regional",HIB,"  1,026 "
+"Laramie, WY: Laramie Regional",LAR,"  1,023 "
+"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",SUX,  968 
+"Presque Isle/Houlton, ME: Presque Isle International",PQI,  967 
+"Eau Claire, WI: Chippewa Valley Regional",EAU,  960 
+"Dubuque, IA: Dubuque Regional",DBQ,  957 
+"Waterloo, IA: Waterloo Regional",ALO,  914 
+"Ogden, UT: Ogden-Hinckley",OGD,  904 
+"Rock Springs, WY: Southwest Wyoming Regional",RKS,  882 
+"Fort Collins/Loveland, CO: Northern Colorado Regional",FNL,  871 
+"Joplin, MO: Joplin Regional",JLN,  854 
+"Alpena, MI: Alpena County Regional",APN,  845 
+"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",BGM,  839 
+"Cedar City, UT: Cedar City Regional",CDC,  837 
+"Wrangell, AK: Wrangell Airport",WRG,  823 
+"Pocatello, ID: Pocatello Regional",PIH,  779 
+"Riverton/Lander, WY: Central Wyoming Regional",RIW,  756 
+"Salina, KS: Salina Regional",SLN,  742 
+"Moab, UT: Canyonlands Regional",CNY,  728 
+"North Bend/Coos Bay, OR: Southwest Oregon Regional",OTH,  725 
+"North Platte, NE: North Platte Regional Airport Lee Bird Field",LBF,  710 
+"Meridian, MS: Key Field",MEI,  687 
+"Prescott, AZ: Prescott Regional Ernest A Love Field",PRC,  658 
+"San Bernardino, CA: San Bernardino International",SBD,  641 
+"Paducah, KY: Barkley Regional",PAH,  639 
+"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",BFF,  630 
+"Hyannis, MA: Cape Cod Gateway",HYA,  587 
+"Elko, NV: Elko Regional",EKO,  583 
+"Pierre, SD: Pierre Regional",PIR,  581 
+"Muskegon, MI: Muskegon County",MKG,  566 
+"Vernal, UT: Vernal Regional",VEL,  543 
+"International Falls, MN: Falls International Einarson Field",INL,  535 
+"Jamestown, ND: Jamestown Regional",JMS,  522 
+"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",PIB,  506 
+"Pueblo, CO: Pueblo Memorial",PUB,  491 
+"Hays, KS: Hays Regional",HYS,  472 
+"Wilmington, DE: New Castle",ILG,  453 
+"Yakutat, AK: Yakutat Airport",YAK,  447 
+"Bishop, CA: Bishop Airport",BIH,  446 
+"Decatur, IL: Decatur Airport",DEC,  442 
+"Victoria, TX: Victoria Regional",VCT,  442 
+"Staunton, VA: Shenandoah Valley Regional",SHD,  438 
+"Liberal, KS: Liberal Mid-America Regional",LBL,  367 
+"Ogdensburg, NY: Ogdensburg International",OGS,  356 
+"Watertown, SD: Watertown Regional",ATY,  337 
+"Dodge City, KS: Dodge City Regional",DDC,  319 
+"Cape Girardeau, MO: Cape Girardeau Regional",CGI,  318 
+"Alamosa, CO: San Luis Valley Regional/Bergman Field",ALS,  315 
+"Branson, MO: Branson Airport",BKG,  314 
+"Johnstown, PA: John Murtha Johnstown-Cambria County",JST,  299 
+"Devils Lake, ND: Devils Lake Regional",DVL,  289 
+"Fort Leonard Wood, MO: Waynesville-St. Robert Regional Forney Field",TBN,  287 
+"West Yellowstone, MT: Yellowstone",WYS,  282 
+"Lewisburg, WV: Greenbrier Valley",LWB,  259 
+"Mason City, IA: Mason City Municipal",MCW,  247 
+"Marion/Herrin, IL: Veterans Airport of Southern Illinois",MWA,  237 
+"Unalaska, AK: Unalaska Airport",DUT,  231 
+"Gustavus, AK: Gustavus Airport",GST,  231 
+"Clovis, NM: Clovis Regional",CVN,  228 
+"El Centro, CA: Imperial County",IPL,  221 
+"Lebanon-Hanover, NH: Lebanon Municipal",LEB,  195 
+"Beckley, WV: Raleigh County Memorial",BKW,  191 
+"Augusta/Waterville, ME: Augusta State",AUG,  189 
+"Manistee/Ludington, MI: Manistee County-Blacker",MBL,  185 
+"Telluride, CO: Telluride Regional",TEX,  171 
+"Rutland, VT: Rutland - Southern Vermont Regional",RUT,  155 
+"Quincy, IL: Quincy Regional-Baldwin Field",UIN,  150 
+"Parkersburg, WV: Mid-Ohio Valley Regional",PKB,  140 
+"Bar Harbor, ME: Hancock County-Bar Harbor",BHB,  138 
+"Kenai, AK: Kenai Municipal",ENA,  124 
+"Burlington, IA: Southeast Iowa Regional",BRL,  122 
+"Muscle Shoals, AL: Northwest Alabama Regional",MSL,  119 
+"Tupelo, MS: Tupelo Regional",TUP,  112 
+"Ironwood, MI: Gogebic-Iron County",IWD,  109 
+"Kirksville, MO: Kirksville Regional",IRK,  108 
+"Cortez, CO: Cortez Municipal",CEZ,  105 
+"Provincetown, MA: Provincetown Municipal",PVC,  103 
+"Rockland, ME: Knox County Regional",RKD,  103 
+"Alliance, NE: Alliance Municipal",AIA,  90 
+"Page, AZ: Page Municipal",PGA,  89 
+"Altoona, PA: Altoona-Blair County",AOO,  87 
+"Adak Island, AK: Adak",ADK,  82 
+"Saranac Lake/Lake Placid, NY: Adirondack Regional",SLK,  73 
+"DuBois, PA: DuBois Regional",DUJ,  72 
+"Greenville, MS: Greenville Mid Delta",GLH,  70 
+"Morgantown, WV: Morgantown Municipal",MGW,  69 
+"Homer, AK: Homer Airport",HOM,  66 
+"Thief River Falls, MN: Thief River Falls Regional",TVF,  61 
+"Fort Dodge, IA: Fort Dodge Regional",FOD,  57 
+"Massena, NY: Massena International-Richards Field",MSS,  56 
+"Harrison, AR: Boone County",HRO,  51 
+"Show Low, AZ: Show Low Regional",SOW,  46 
+"Sidney, MT: Sidney Richland Regional",SDY,  45 
+"Carlsbad, NM: Cavern City Air Terminal",CNM,  43 
+"Chadron, NE: Chadron Municipal",CDR,  34 
+"El Dorado, AR: South Arkansas Regional at Goodwin Field",ELD,  34 
+"Pendleton, OR: Eastern Oregon Regional at Pendleton",PDT,  34 
+"Hot Springs, AR: Memorial Field",HOT,  34 
+"McCook, NE: McCook Ben Nelson Regional",MCK,  34 
+"Bradford, PA: Bradford Regional",BFD,  32 
+"Lancaster, PA: Lancaster Airport",LNS,  29 
+"Glendive, MT: Dawson Community",GDV,  26 
+"Hoolehua, HI: Molokai",MKK,  20 
+"Havre, MT: Havre City-County",HVR,  16 
+"Wolf Point, MT: L. M. Clayton",OLF,  16 
+"Jackson, TN: McKellar-Sipes Regional",MKL,  14 
+"Valdez, AK: Valdez Pioneer Field",VDZ,  13 
+"Glasgow, MT: Wokal Field Glasgow Valley County",GGW,  11 
+"Skagway, AK: Skagway Airport",SGY,  10 
+"Cold Bay, AK: Cold Bay Airport",CDB,  7 
+"Lanai, HI: Lanai Airport",LNY,  7 
+"Kapalua, HI: Kapalua Airport",JHM,  6 
+"Macon, GA: Middle Georgia Regional",MCN,  4 
+"Sandpoint, AK: Sand Point",SDP,  4 
+"St. Paul, AK: St. Paul Island",SNP,  3 
+"St. Mary's, AK: St. Mary's Airport",KSM,  2 
+"Mankato, MN: Mankato Regional",MKT,  2 
+"Haines, AK: Haines Airport",HNS,  1 
+"Hoonah, AK: Hoonah Airport",HNH,  1 
+"Hana, HI: Hana Airport",HNM,  1 
+"Jonesboro, AR: Jonesboro Municipal",JBR,  1 
+"Aniak, AK: Aniak Airport",ANI,  1 

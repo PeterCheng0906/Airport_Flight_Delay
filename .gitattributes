@@ -1,1 +1,4 @@
 flights_sample_3m_clean.csv filter=lfs diff=lfs merge=lfs -text
+Input/flights.csv filter=lfs diff=lfs merge=lfs -text
+Output/yufei_flights_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+data[[:space:]]archive/flights_sample_3m_clean.csv filter=lfs diff=lfs merge=lfs -text
