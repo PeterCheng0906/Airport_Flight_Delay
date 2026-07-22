@@ -1,0 +1,63 @@
+Weather ETL Methodology
+
+Objective
+
+Automatically retrieve historical daily weather data from the Open-Meteo
+Historical Weather API for the airports used in the flight dataset and
+save the results as a CSV for downstream analysis.
+
+Methodology
+
+1. Extract Phase
+
+The ETL pipeline begins by reading the airport information from
+airports.csv. Each airport contains an IATA airport code together with
+its latitude and longitude.
+
+For every airport: - Read the latitude and longitude. - Send an HTTP GET
+request to the Open-Meteo Historical Weather API. - Request weather
+between 2019-01-01 and 2023-12-31. - Request the following daily
+variables: - Weather Code - Mean Temperature - Mean Cloud Cover - Mean
+Wind Speed - Mean Relative Humidity - Total Daily Precipitation - Store
+the JSON response in memory.
+
+The extraction process repeats until weather has been collected for
+every airport.
+
+2. Transform Phase
+
+Each JSON response is converted into a Pandas DataFrame.
+
+The transformation step: - Extracts the daily weather arrays. - Converts
+them into tabular form. - Adds the airport’s IATA code. - Renames
+columns into readable names. - Combines every airport’s weather into one
+master DataFrame.
+
+3. Load Phase
+
+The final DataFrame is written to:
+
+output/manny_weather.csv
+
+This CSV becomes the cleaned weather dataset used for later joins with
+the flight dataset.
+
+Why This ETL Design?
+
+The workflow follows the classic ETL process:
+
+-   Extract data from the Open-Meteo Historical API.
+-   Transform nested JSON into structured tables.
+-   Load the cleaned results into a CSV.
+
+Automating these steps removes the need to manually download weather
+files, ensures consistent processing for every airport, and makes the
+pipeline reproducible.
+
+Future Improvement
+
+Instead of requesting weather for every airport in airports.csv, the
+pipeline can first read flights.csv, determine the unique airports
+appearing in the ORIGIN and DEST columns, and request weather only for
+those airports. This reduces API requests while producing the same final
+dataset needed for the project.
